@@ -16,7 +16,7 @@ I'm an **AI/ML Engineer**
 
 Built an end-to-end ML pipeline to forecast next-24-hour solar power output using historical generation data and weather features (irradiance, temperature, cloud cover). Compared multiple models (XGBoost, Prophet, LSTM) against a naive baseline, evaluating on MAE/RMSE, and added quantile-based uncertainty estimates to support grid-planning use cases. Deployed as an interactive Streamlit app for real-time forecasting and visualization.
 
-*Tech:* `XGBoost` `Prophet` `Pandas` `Streamlit`
+Tech: `XGBoost` `Prophet` `Pandas` `Streamlit`
 
 • **[Agentic AI System for Regulatory Compliance & Freight Forecasting](link)**
 
@@ -31,7 +31,7 @@ An end-to-end diagnostic tool that uses machine learning to detect Multiple Scle
 - Designed a full signal-to-diagnosis pipeline: captured raw EMG data via Arduino Uno and surface electrodes, then cleaned and processed the signals for analysis
 - Engineered features from EMG waveforms and trained a Support Vector Machine (SVM) classifier to distinguish healthy vs. MS-affected muscle patterns
   
-**Tech:** `SVM` `Arduino Uno` `MATLAB` `Firebase` `Signal Processing`
+Tech: `SVM` `Arduino Uno` `MATLAB` `Firebase` `Signal Processing`
 
 # Reach me
 - [[LinkedIn]](https://www.linkedin.com/in/lamya-a-1b5782364)
