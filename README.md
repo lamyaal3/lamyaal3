@@ -18,6 +18,12 @@ Built an end-to-end ML pipeline to forecast next-24-hour solar power output usin
 
 Tech: Python, XGBoost, Prophet, Pandas, Streamlit
 
+• **[Agentic AI System for Regulatory Compliance & Freight Forecasting](link)**
+
+A multi-agent AI system that guides importers
+
+`LangGraph` `RAG` `Multi-Agent Systems` `Embeddings` `Gradient Boosting` `Time-Series Forecasting`
+
 • **[AI-Based Multiple Sclerosis Diagnosis System Using EMG Sensors and Arduino](link)**
 
 An end-to-end diagnostic tool that uses machine learning to detect Multiple Sclerosis from muscle activity — combining hardware-based signal acquisition with a trained classification model to support faster, more accessible diagnosis.
