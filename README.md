@@ -22,7 +22,7 @@ Built an end-to-end ML pipeline to forecast next-24-hour solar power output usin
 
 A multi-agent AI system that guides importers
 
-**Tech:** `LangGraph` `RAG` `Multi-Agent Systems` `Embeddings` `Gradient Boosting` `Time-Series Forecasting`
+Tech: `LangGraph` `RAG` `Multi-Agent Systems` `Embeddings` `Gradient Boosting` `Time-Series Forecasting`
 
 • **[AI-Based Multiple Sclerosis Diagnosis System Using EMG Sensors and Arduino](link)**
 
