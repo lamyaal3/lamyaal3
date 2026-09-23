@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Lamya 👋
 
-<!--
-**lamyaal3/lamyaal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI/ML Engineer**
 
-Here are some ideas to get you started:
+• I specialize in building agents and multi-agent systems — designing LLMs that can reason, plan, and use tools to complete complex tasks with minimal human intervention.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• I'm passionate about building intelligent systems that solve real-world problems, from data collection and model training to deployment and monitoring.
+
+• Currently expanding my skills in computer vision, working through real-world CV projects as I build toward deeper expertise in the field.
+
+• I'm open to collaborating on ambitious AI/ML projects — whether research-driven or real-world applications. Feel free to reach out!
+
+### 🚀 Projects
+
+• **[AI-Based Multiple Sclerosis Diagnosis System Using EMG Sensors and Arduino](link)** — Built an SVM-based ML pipeline to classify EMG muscle signal patterns from healthy vs. MS-diagnosed individuals, integrated into a doctor-centric system with real-time feedback and secure data visualization.
+`Python` `SVM` `Google Colab` `Arduino Uno` `MATLAB` `Firebase` `Signal Processing`
+
+### Reach me
+- LinkedIn: [[your link]](https://www.linkedin.com/in/lamya-a-1b5782364)
