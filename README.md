@@ -12,8 +12,9 @@ I'm an **AI/ML Engineer**
 
 ### 🚀 Projects
 
-• **[AI-Based Multiple Sclerosis Diagnosis System Using EMG Sensors and Arduino](link)** — Built an SVM-based ML pipeline to classify EMG muscle signal patterns from healthy vs. MS-diagnosed individuals, integrated into a doctor-centric system with real-time feedback and secure data visualization.
-`Python` `SVM` `Google Colab` `Arduino Uno` `MATLAB` `Firebase` `Signal Processing`
+• **[AI-Based Multiple Sclerosis Diagnosis System Using EMG Sensors and Arduino](link)**
+Built an SVM-based ML pipeline to classify EMG muscle signal patterns from healthy vs. MS-diagnosed individuals, integrated into a doctor-centric system with real-time feedback and secure data visualization.
+Tools: `SVM` `Arduino Uno` `MATLAB` `Firebase` `Signal Processing`
 
 ### Reach me
-- LinkedIn: [[your link]](https://www.linkedin.com/in/lamya-a-1b5782364)
+- LinkedIn: [[Press here]](https://www.linkedin.com/in/lamya-a-1b5782364)
